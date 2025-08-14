@@ -19,7 +19,7 @@ We didn't deal with data this time and feed the model with what we have.
 ---
 
 ## Dataset
-The dataset contains electric vehicle charging and discharging data.  
+The dataset contains electric vehicle telemetry data.
 Two distribution strategies are applied:
 
 1. **Homogeneous** – Similar data distribution across all clients. Each client has the same 5 features in this one.
