@@ -38,7 +38,7 @@ Two distribution strategies are applied:
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/ercodex/federated-lstm-vehicle-soc.git
+git clone https://github.com/ercodex/Federated-Learning-Based-LSTM-for-Vehicle-SoC-Prediction.git
 cd federated-lstm-vehicle-soc
 
 # Install requirements
