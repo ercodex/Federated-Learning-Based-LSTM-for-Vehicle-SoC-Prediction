@@ -38,12 +38,8 @@ Two distribution strategies are applied:
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/username/federated-lstm-vehicle-soc.git
+git clone https://github.com/ercodex/federated-lstm-vehicle-soc.git
 cd federated-lstm-vehicle-soc
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
 
 # Install requirements
 pip install -r requirements.txt
