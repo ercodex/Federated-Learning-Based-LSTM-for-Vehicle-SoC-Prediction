@@ -43,3 +43,7 @@ cd federated-lstm-vehicle-soc
 
 # Install requirements
 pip install -r requirements.txt
+```
+
+## Warning
+- Please don't forget to change data paths in codes according to your directories after downloading. If you don't, code may not work.
