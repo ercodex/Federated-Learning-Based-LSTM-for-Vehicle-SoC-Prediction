@@ -14,7 +14,7 @@ We didn't deal with data this time and feed the model with what we have.
 - **Federated Learning** with 5 clients + 1 global test set
 - **LSTM architecture** for time-series based SoC prediction
 - Experiments with **homogeneous vs. heterogeneous** data distributions
-- MAE, MAPE, MSE, and R^2 Evaluation metrics for performance comparison
+- MAE, MAPE, MSE, and R² Evaluation metrics for performance comparison
 
 ---
 
